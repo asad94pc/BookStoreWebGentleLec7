@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Lec6_2": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63708;http://localhost:63709"
+    }
+  }
+}
